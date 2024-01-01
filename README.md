@@ -2,6 +2,7 @@
 
 This is a simple project that demonstrates how to build a command line interface chatbot using tgpt2.
 
+---
 
 ## How to run?
 
